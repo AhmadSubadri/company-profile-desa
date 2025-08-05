@@ -18,7 +18,7 @@ Sistem Informasi Desa adalah aplikasi web berbasis Laravel yang dirancang untuk 
 
 ## Teknologi
 
--   **Backend**: Laravel 11
+-   **Backend**: Laravel 12
 -   **Frontend**: Tailwind CSS
 -   **Bundler**: Vite
 -   **Database**: MySQL
