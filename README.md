@@ -69,9 +69,13 @@ Sistem Informasi Desa adalah aplikasi web berbasis Laravel yang dirancang untuk 
     ```bash
     npm run build
     ```
-9. Jalankan server development:
+9. Jalankan server backend Laravel:
     ```bash
     php artisan serve
+    ```
+10. Jalankan server frontend (Vite) / compile asset Tailwind:
+    ```bash
+    npm run dev
     ```
 
 ## Struktur Proyek
