@@ -76,18 +76,20 @@ Sistem Informasi Desa adalah aplikasi web berbasis Laravel yang dirancang untuk 
 
 ## Struktur Proyek
 
-sistem-informasi-desa/
-├── app/ # Logika aplikasi
-│ ├── Models/ # Model database
-│ ├── Http/ # Controller dan middleware
-│ └── ... # Komponen lainnya
-├── config/ # File konfigurasi
-├── database/ # Migrasi dan seeder
-├── public/ # Aset publik
-├── resources/ # View dan aset frontend
-│ ├── views/ # Blade templates
-│ ├── css/ # File CSS
-│ └── js/ # File JavaScript
-├── routes/ # Definisi route
-├── storage/ # File yang disimpan
-└── tests/ # Unit testing
+    ```bash
+    sistem-informasi-desa/
+    ├── app/ # Logika aplikasi
+    │ ├── Models/ # Model database
+    │ ├── Http/ # Controller dan middleware
+    │ └── ... # Komponen lainnya
+    ├── config/ # File konfigurasi
+    ├── database/ # Migrasi dan seeder
+    ├── public/ # Aset publik
+    ├── resources/ # View dan aset frontend
+    │ ├── views/ # Blade templates
+    │ ├── css/ # File CSS
+    │ └── js/ # File JavaScript
+    ├── routes/ # Definisi route
+    ├── storage/ # File yang disimpan
+    └── tests/ # Unit testing
+    ```
